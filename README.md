@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=akakou&count_private=true&show_icons=true&theme=dracula)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akakou&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akakou&layout=compact&theme=dracula)
+
+![](https://github-profile-trophy.vercel.app/?username=akakou&theme=onedark&column=7)
